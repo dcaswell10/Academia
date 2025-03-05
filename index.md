@@ -1,4 +1,4 @@
 ---
-title: ***Portfolio for Donald Caswell***
+title: Portfolio for Donald Caswell
 ---
 
